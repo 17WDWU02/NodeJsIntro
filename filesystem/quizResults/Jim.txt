@@ -1,0 +1,24 @@
+Quiz results for Jim
+
+
+Question 1:
+Question: What colour is the bullseye on a standard dartboard?
+Your Answer : yellow
+
+Question 2:
+Question: How many sides has an octagon?
+Your Answer : 9
+
+Question 3:
+Question: How many arms does a starfish usually have?
+Your Answer : 3
+
+
+
+Thank you for completing the quiz
+Question 1 was incorrect, the real answer was red
+Question 2 was incorrect, the real answer was 8
+Question 3 was incorrect, the real answer was 5
+
+Im sorry, you failed the quiz
+Your overal score was 0/3

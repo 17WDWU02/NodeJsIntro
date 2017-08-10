@@ -1,0 +1,24 @@
+Quiz results for Richard
+
+
+Question 1:
+Question: What colour is the bullseye on a standard dartboard?
+Your Answer : red
+
+Question 2:
+Question: How many sides has an octagon?
+Your Answer : 8
+
+Question 3:
+Question: How many arms does a starfish usually have?
+Your Answer : 5
+
+
+
+Thank you for completing the quiz
+Question 1 was correct
+Question 2 was correct
+Question 3 was correct
+
+Congratulations, you passed the quiz
+Your overal score was 3/3
