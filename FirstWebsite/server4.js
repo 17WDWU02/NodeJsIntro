@@ -19,7 +19,6 @@ var server = http.createServer(function(request, response){
 		var fileStream = fs.createReadStream(cssPath, "UTF-8");
 		response.writeHead(200, {'Content-Type':'text/css'});
 		fileStream.pipe(response);
-
 	} else if(request.url.match(/.jpg$/)){
 		var imagePath = path.join(__dirname, 'public', request.url);
 		var imageStream = fs.createReadStream(imagePath);
